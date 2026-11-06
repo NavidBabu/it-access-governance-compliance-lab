@@ -1,0 +1,11 @@
+Review_ID,User_ID,Employee_Name,Application,Role,Issue,Severity,Rationale,Recommended_Action
+AR-006,U1006,Casey Brown,ServiceNow,IT Support,Access review overdue,Medium,Certification decision was not completed by the review due date.,"Validate with manager/application owner, remediate access if required, and retain evidence."
+AR-025,U1025,Arjun Mehta,Microsoft 365,User Admin,Stale privileged access,High,Privileged access has not been used for 95 days.,"Validate with manager/application owner, remediate access if required, and retain evidence."
+AR-028,U1028,Aisha Ali,Data Warehouse,Reader,Access review overdue,Medium,Certification decision was not completed by the review due date.,"Validate with manager/application owner, remediate access if required, and retain evidence."
+AR-032,U1032,Grace Hill,Data Warehouse,DB Admin,Stale privileged access,High,Privileged access has not been used for 130 days.,"Validate with manager/application owner, remediate access if required, and retain evidence."
+AR-033,U1033,Henry Evans,ERP,Buyer,Terminated user retains access,High,Employment status is Terminated while an application role remains assigned.,"Validate with manager/application owner, remediate access if required, and retain evidence."
+AR-034,U1034,Ivy Stewart,Microsoft 365,User Admin,Access review overdue,Medium,Certification decision was not completed by the review due date.,"Validate with manager/application owner, remediate access if required, and retain evidence."
+AR-037,U1037,Mason Cook,Data Warehouse,DB Admin,Stale privileged access,High,Privileged access has not been used for 75 days.,"Validate with manager/application owner, remediate access if required, and retain evidence."
+AR-040,U1040,Sara Bailey,ERP,Viewer,Access review overdue,Medium,Certification decision was not completed by the review due date.,"Validate with manager/application owner, remediate access if required, and retain evidence."
+AR-047,U1007,Cameron Lee,ERP,Finance Admin,Stale privileged access,High,Privileged access has not been used for 60 days.,"Validate with manager/application owner, remediate access if required, and retain evidence."
+AR-053,U1013,Priya Shah,Data Warehouse,DB Admin,Stale privileged access,High,Privileged access has not been used for 75 days.,"Validate with manager/application owner, remediate access if required, and retain evidence."

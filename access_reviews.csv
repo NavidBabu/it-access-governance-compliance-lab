@@ -1,0 +1,61 @@
+Review_ID,User_ID,Employee_Name,Department,Manager,Application,Role,Privileged,Last_Login_Days,Employment_Status,Reviewer,Review_Due,Review_Decision,Review_Status,Risk_Flag
+AR-001,U1001,Avery Chen,Operations,J. Tremblay,Data Warehouse,Reader,No,30,Active,Identity Team,2026-10-25T00:00:00,Approve,Complete,Low
+AR-002,U1002,Jordan Singh,Supply Chain,R. Patel,Data Warehouse,Analyst,No,5,Active,Application Owner,2026-11-24T00:00:00,Pending,In Progress,Low
+AR-003,U1003,Taylor Martin,IT,K. Wilson,Microsoft 365,Standard User,No,130,Active,Application Owner,2026-11-16T00:00:00,Pending,In Progress,Medium
+AR-004,U1004,Morgan Patel,IT,S. Martin,Microsoft 365,Global Reader,No,45,Active,Application Owner,2026-11-09T00:00:00,Pending,In Progress,Low
+AR-005,U1005,Riley Wilson,Supply Chain,S. Martin,Microsoft 365,Standard User,No,75,Active,Identity Team,2026-10-12T00:00:00,Approve,Complete,Medium
+AR-006,U1006,Casey Brown,HR,M. Singh,ServiceNow,IT Support,No,30,Active,Application Owner,2026-10-25T00:00:00,Pending,Overdue,Medium
+AR-007,U1007,Cameron Lee,Operations,R. Patel,ERP,Viewer,No,2,Active,Identity Team,2026-11-09T00:00:00,Approve,Complete,Low
+AR-008,U1008,Jamie Nguyen,HR,J. Tremblay,Data Warehouse,Reader,No,45,Active,Application Owner,2026-11-16T00:00:00,Modify,Complete,Low
+AR-009,U1009,Alex Johnson,HR,A. Chen,Microsoft 365,Global Reader,No,9,Active,Application Owner,2026-11-01T00:00:00,Approve,Complete,Low
+AR-010,U1010,Drew Thompson,HR,M. Singh,ERP,Viewer,No,21,Active,Identity Team,2026-10-12T00:00:00,Modify,Complete,Low
+AR-011,U1011,Samira Khan,IT,A. Chen,ServiceNow,Requester,No,2,Active,Application Owner,2026-11-24T00:00:00,Modify,Complete,Low
+AR-012,U1012,Noah Lewis,IT,J. Tremblay,Microsoft 365,User Admin,Yes,2,Leave,Identity Team,2026-12-06T00:00:00,Approve,Complete,Low
+AR-013,U1013,Priya Shah,Operations,M. Singh,ServiceNow,Admin,Yes,9,Active,GRC Analyst,2026-11-09T00:00:00,Revoke,Complete,Low
+AR-014,U1014,Liam Clark,Finance,M. Singh,ServiceNow,Requester,No,5,Active,Application Owner,2026-11-24T00:00:00,Pending,In Progress,Low
+AR-015,U1015,Maya Robinson,Supply Chain,A. Chen,ERP,Buyer,No,30,Active,Application Owner,2026-10-25T00:00:00,Approve,Complete,Low
+AR-016,U1016,Ethan Walker,Operations,R. Patel,ServiceNow,Admin,Yes,14,Active,IT Security,2026-11-09T00:00:00,Approve,Complete,Low
+AR-017,U1017,Sophia Hall,Engineering,K. Wilson,ERP,Finance Admin,Yes,2,Active,IT Security,2026-10-25T00:00:00,Modify,Complete,Low
+AR-018,U1018,Lucas Young,HR,K. Wilson,ERP,Viewer,No,5,Active,Application Owner,2026-12-06T00:00:00,Approve,Complete,Low
+AR-019,U1019,Zoe King,Supply Chain,A. Chen,ERP,Buyer,No,9,Active,GRC Analyst,2026-11-09T00:00:00,Approve,Complete,Low
+AR-020,U1020,Owen Wright,Supply Chain,K. Wilson,Microsoft 365,User Admin,Yes,2,Active,GRC Analyst,2026-10-12T00:00:00,Approve,Complete,Low
+AR-021,U1021,Isla Green,Engineering,K. Wilson,Microsoft 365,Global Reader,No,14,Active,IT Security,2026-10-25T00:00:00,Revoke,Complete,Low
+AR-022,U1022,Leo Baker,Operations,S. Martin,ServiceNow,Requester,No,95,Active,GRC Analyst,2026-10-25T00:00:00,Approve,Complete,Medium
+AR-023,U1023,Nora Adams,Operations,K. Wilson,Microsoft 365,Global Reader,No,2,Active,Application Owner,2026-11-01T00:00:00,Modify,Complete,Low
+AR-024,U1024,Mila Scott,Supply Chain,M. Singh,Data Warehouse,DB Admin,Yes,5,Active,Identity Team,2026-11-09T00:00:00,Revoke,Complete,Low
+AR-025,U1025,Arjun Mehta,IT,K. Wilson,Microsoft 365,User Admin,Yes,95,Active,IT Security,2026-11-16T00:00:00,Approve,Complete,High
+AR-026,U1026,Ella Turner,Supply Chain,J. Tremblay,ERP,Viewer,No,21,Active,Application Owner,2026-11-16T00:00:00,Modify,Complete,Low
+AR-027,U1027,Ryan Cooper,Operations,S. Martin,ServiceNow,Admin,Yes,14,Active,Application Owner,2026-11-01T00:00:00,Approve,Complete,Low
+AR-028,U1028,Aisha Ali,Operations,J. Tremblay,Data Warehouse,Reader,No,9,Active,Identity Team,2026-11-01T00:00:00,Pending,Overdue,Medium
+AR-029,U1029,Ben Harris,Engineering,S. Martin,Data Warehouse,Reader,No,14,Active,Identity Team,2026-11-24T00:00:00,Approve,Complete,Low
+AR-030,U1030,Chloe Campbell,Engineering,R. Patel,Data Warehouse,Reader,No,21,Active,IT Security,2026-11-24T00:00:00,Approve,Complete,Low
+AR-031,U1031,Daniel Moore,Operations,A. Chen,Data Warehouse,DB Admin,Yes,45,Active,GRC Analyst,2026-12-06T00:00:00,Approve,Complete,Low
+AR-032,U1032,Grace Hill,Operations,M. Singh,Data Warehouse,DB Admin,Yes,130,Active,Application Owner,2026-11-01T00:00:00,Revoke,Complete,High
+AR-033,U1033,Henry Evans,Engineering,J. Tremblay,ERP,Buyer,No,5,Terminated,IT Security,2026-11-01T00:00:00,Pending,Overdue,High
+AR-034,U1034,Ivy Stewart,Operations,K. Wilson,Microsoft 365,User Admin,Yes,21,Active,Identity Team,2026-10-12T00:00:00,Pending,Overdue,High
+AR-035,U1035,Jack Morris,HR,R. Patel,ServiceNow,Requester,No,30,Active,GRC Analyst,2026-11-24T00:00:00,Revoke,Complete,Low
+AR-036,U1036,Layla Reed,Operations,J. Tremblay,ERP,Finance Admin,Yes,5,Active,Identity Team,2026-11-16T00:00:00,Revoke,Complete,Low
+AR-037,U1037,Mason Cook,Supply Chain,M. Singh,Data Warehouse,DB Admin,Yes,75,Active,Application Owner,2026-10-12T00:00:00,Approve,Complete,High
+AR-038,U1038,Olivia Bell,IT,A. Chen,Microsoft 365,Standard User,No,95,Leave,GRC Analyst,2026-12-06T00:00:00,Revoke,Complete,Medium
+AR-039,U1039,Quinn Murphy,Engineering,J. Tremblay,Microsoft 365,Global Reader,No,45,Active,GRC Analyst,2026-11-24T00:00:00,Approve,Complete,Low
+AR-040,U1040,Sara Bailey,Operations,M. Singh,ERP,Viewer,No,9,Active,IT Security,2026-10-25T00:00:00,Pending,Overdue,Medium
+AR-041,U1001,Avery Chen,Engineering,M. Singh,ServiceNow,IT Support,No,45,Active,GRC Analyst,2026-11-01T00:00:00,Approve,Complete,Low
+AR-042,U1002,Jordan Singh,IT,M. Singh,Data Warehouse,Reader,No,5,Active,GRC Analyst,2026-11-16T00:00:00,Approve,Complete,Low
+AR-043,U1003,Taylor Martin,Operations,J. Tremblay,ServiceNow,IT Support,No,5,Active,GRC Analyst,2026-11-16T00:00:00,Pending,In Progress,Low
+AR-044,U1004,Morgan Patel,HR,K. Wilson,Data Warehouse,Reader,No,95,Leave,Identity Team,2026-12-06T00:00:00,Revoke,Complete,Medium
+AR-045,U1005,Riley Wilson,IT,K. Wilson,ERP,Buyer,No,9,Active,IT Security,2026-10-12T00:00:00,Revoke,Complete,Low
+AR-046,U1006,Casey Brown,IT,J. Tremblay,Data Warehouse,Analyst,No,5,Active,GRC Analyst,2026-12-06T00:00:00,Revoke,Complete,Low
+AR-047,U1007,Cameron Lee,HR,K. Wilson,ERP,Finance Admin,Yes,60,Active,Identity Team,2026-10-12T00:00:00,Pending,Overdue,High
+AR-048,U1008,Jamie Nguyen,Finance,R. Patel,ServiceNow,Requester,No,21,Active,Identity Team,2026-11-24T00:00:00,Approve,Complete,Low
+AR-049,U1009,Alex Johnson,Engineering,A. Chen,Data Warehouse,Analyst,No,30,Active,GRC Analyst,2026-12-06T00:00:00,Pending,In Progress,Low
+AR-050,U1010,Drew Thompson,Supply Chain,R. Patel,ServiceNow,Requester,No,2,Active,GRC Analyst,2026-11-24T00:00:00,Revoke,Complete,Low
+AR-051,U1011,Samira Khan,HR,S. Martin,Microsoft 365,Global Reader,No,9,Active,GRC Analyst,2026-11-01T00:00:00,Revoke,Complete,Low
+AR-052,U1012,Noah Lewis,HR,M. Singh,ERP,Viewer,No,30,Active,IT Security,2026-11-09T00:00:00,Approve,Complete,Low
+AR-053,U1013,Priya Shah,HR,K. Wilson,Data Warehouse,DB Admin,Yes,75,Active,Identity Team,2026-12-06T00:00:00,Pending,In Progress,High
+AR-054,U1014,Liam Clark,HR,R. Patel,Data Warehouse,Reader,No,5,Active,IT Security,2026-12-06T00:00:00,Approve,Complete,Low
+AR-055,U1015,Maya Robinson,Operations,K. Wilson,ServiceNow,IT Support,No,130,Active,Identity Team,2026-11-24T00:00:00,Pending,In Progress,Medium
+AR-056,U1016,Ethan Walker,Supply Chain,R. Patel,Data Warehouse,Analyst,No,95,Active,Identity Team,2026-11-01T00:00:00,Approve,Complete,Medium
+AR-057,U1017,Sophia Hall,Operations,R. Patel,Data Warehouse,Reader,No,21,Active,GRC Analyst,2026-11-24T00:00:00,Pending,In Progress,Low
+AR-058,U1018,Lucas Young,Engineering,J. Tremblay,Data Warehouse,DB Admin,Yes,5,Active,GRC Analyst,2026-10-25T00:00:00,Approve,Complete,Low
+AR-059,U1019,Zoe King,HR,M. Singh,Microsoft 365,Global Reader,No,2,Active,Identity Team,2026-11-16T00:00:00,Revoke,Complete,Low
+AR-060,U1020,Owen Wright,HR,K. Wilson,Data Warehouse,Analyst,No,9,Leave,IT Security,2026-11-16T00:00:00,Approve,Complete,Low
